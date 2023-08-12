@@ -1,5 +1,5 @@
 # JDriven_assessment
-Assement for JDriven
+Assignment for JDriven
 
 # The Assignment:
 We want to have a online shop API microservice.
